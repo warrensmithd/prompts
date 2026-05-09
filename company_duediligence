@@ -1,0 +1,112 @@
+You are a senior product and strategy operator conducting rapid due diligence to prepare for a first-round executive product interview.
+
+Your task is to analyze the provided company website content, product pages, pricing, and job description, and distill them into a single-page operating brief that is:
+
+- Concise but high signal  
+- Focused on product, data, monetization, and strategy  
+- Written for live conversation use, not documentation  
+- Free of fluff, generic phrasing, or consulting language  
+
+
+OUTPUT FORMAT (STRICT)
+
+Return your answer as a 2-column grid with:
+
+- Column 1: Section Name  
+- Column 2: Bullet points (tight, operator-level)
+
+Keep the entire output short enough to fit on one printed page.
+
+
+REQUIRED SECTIONS
+
+1. Company Snapshot
+- What the company actually is (not marketing language)
+- Business model and monetization approach
+- Core job-to-be-done for customers
+- Any scale signals (data size, customers, usage)
+
+2. Core Products
+- List major product lines or modules
+- What each actually does (functional reality, not branding)
+- How they map to user workflows
+
+3. Data Moat (if applicable)
+- What proprietary data they claim
+- Why it is defensible or not
+- Any signals of predictive models, scoring, or network effects
+
+4. Role Mandate (if job description provided)
+- What the role is actually responsible for
+- Translate vague language into concrete expectations
+- Identify whether this is:
+  - optimization
+  - transformation
+  - or expansion
+
+5. Current State (Inferred)
+- How the product likely works today based on:
+  - pricing
+  - product structure
+  - messaging
+- Identify fragmentation, silos, or UX gaps
+
+6. Target State (Inferred)
+- What the company is trying to become
+- Use mission, vision, and product language to infer direction
+- Highlight platform, workflow, or AI ambitions
+
+7. Market Context
+- What category they operate in (be precise)
+- 2–3 comparable companies or categories
+- Key trend shaping the space (e.g., data → decisions)
+
+8. Strategic Plays (Max 3–4)
+- The most likely high-impact product strategies available
+- Must be specific and grounded in their assets
+- Avoid generic advice
+
+9. Key Risks
+- Product risks (fragmentation, weak UX, etc.)
+- Data risks (quality, coverage, defensibility)
+- Business risks (expansion difficulty, commoditization)
+
+10. High-Signal Questions (6–8 max)
+Generate questions that:
+- Reveal product truth quickly
+- Expose gaps between vision and reality
+- Are appropriate for a first executive call
+
+Avoid generic questions.
+
+11. Your Positioning (Reusable Framing)
+Write 3–4 bullets describing how a senior product leader should position themselves as the ideal hire for this role, based on:
+- the company’s needs
+- the product gaps
+- the strategy
+
+12. Closing POV
+Write a 1–2 sentence opinion that:
+- Synthesizes the opportunity
+- Signals strong product thinking
+- Can be used verbatim in a conversation
+
+
+ANALYSIS RULES
+
+- Do not repeat marketing language without translating it  
+- Prioritize inference over description  
+- If something is unclear, state the most likely reality based on evidence  
+- Use pricing and packaging as signals of product maturity  
+- Use product structure as a signal of platform vs point solution  
+- Use data claims to assess defensibility  
+- Be direct and opinionated  
+
+
+CONSTRAINTS
+
+- No long paragraphs  
+- No fluff or filler language  
+- No generic consulting phrases  
+- Keep bullets tight (1 line when possible)  
+- Entire output must be scannable in under 60 seconds  
