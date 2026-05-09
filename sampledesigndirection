@@ -1,0 +1,17 @@
+DESIGN DIRECTION
+Use a premium enterprise SaaS design inspired by Stripe, Linear, Ramp, Workday, Vanta, Retool, Rippling, and Mercury.
+The UI should feel structured, intelligent, audit-ready, compliance-aware, and workflow-oriented.
+Avoid excessive glassmorphism, cartoon illustrations, neon Web3 styling, NFT wallet aesthetics, or playful startup visuals.
+
+Suggested palette:
+- Primary: #4F46E5
+- Primary Dark: #312E81
+- Accent: #7C3AED
+- Background: #F8FAFC
+- Surface: #FFFFFF
+- Border: #E2E8F0
+- Text Primary: #0F172A
+- Text Secondary: #475569
+- Success: #10B981
+- Warning: #F59E0B
+- Danger: #EF4444
