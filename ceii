@@ -1,0 +1,34 @@
+**Task: Analyze the article below and decompose it into a structured table with columns for Claim → Evidence → Interpretation → Implication (CEII) framework. 
+
+**Flashcard Rules: 
+
+• Each flashcard must represent one distinct claim made by the author 
+• Each claim must be supported by specific evidence cited or referenced in the article 
+• Each interpretation must explain how the author connects the evidence to the claim 
+• Each implication must describe why the claim matters for the future (political, social, economic, institutional, or strategic) 
+• Each flashcard must be no longer than 400 characters total 
+• Use concise, analytical language 
+• Avoid paraphrasing large blocks of text 
+• Do not introduce outside facts or opinions 
+
+**Synthesis Rules: 
+• Do not summarize the article sequentially 
+• Identify the primary thesis claim and label it clearly 
+• Extract supporting claims tied to distinct sections or arguments 
+• Include counterclaims only if the author seriously engages them 
+• Keep implications specific, not generic 
+
+**Formatting Rules: 
+• Title each card: “Flashcard X — [Claim Summary]” 
+• Use this exact structure: Claim: Evidence: Interpretation: Implication:  
+• Do NOT include the phrase “Flashcard #” inside any table cell
+• The first column must contain only a concise claim title (no numbering or prefixes)
+• If ordering is required, use a separate “ID” column with numeric values only
+
+
+**Quality Bar: 
+• Each flashcard must stand alone 
+• No two flashcards may restate the same claim 
+• Evidence must be traceable to the article 
+• Interpretations must reflect the author’s logic, not yours 
+• Implications must project forward, not restate the claim
