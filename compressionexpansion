@@ -1,0 +1,16 @@
+Analyze the article through progressive compression.
+
+Return:
+1. One sentence thesis
+2. Three core ideas
+3. Five supporting mechanisms
+4. Ten transferable principles
+5. Three predictions implied by the article
+6. Three hidden assumptions
+7. Three strongest counterarguments
+
+Rules:
+• Preserve nuance
+• Avoid generic summaries
+• Extract reusable reasoning patterns
+• Focus on causal structure
