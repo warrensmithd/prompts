@@ -1,0 +1,24 @@
+Analyze the article as a system.
+
+Extract:
+• Core actors/entities
+• Inputs
+• Outputs
+• Incentive structures
+• Bottlenecks
+• Feedback loops
+• Failure modes
+• Scaling constraints
+• Hidden assumptions
+
+Return results in a table.
+
+Columns:
+System Element | Description | Dependency | Risk | Scaling Impact
+
+Rules:
+• Focus on causality
+• Avoid summaries
+• Prefer mechanisms over opinions
+• Identify invisible dependencies
+• Abstract transferable patterns
