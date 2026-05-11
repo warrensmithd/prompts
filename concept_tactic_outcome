@@ -1,0 +1,30 @@
+**Task: Analyze the article below and convert it into a structured set of learning flashcards.
+**Flashcard Rules:
+• Each flashcard must support one clear topic derived from the article
+• Each topic must be supported by exactly 3 concepts
+• Each concept must be supported by exactly 3 tactics
+• Each tactic must imply or state exactly 3 outcomes
+• Each flashcard must be no longer than 400 characters total
+• Keep language simple, practical, and concrete
+• Use plain bullets (no paragraphS)
+• Avoid quotes, citations, or author names
+• Favor actionable guidance over theory
+**Synthesis Rules:
+• Do not summarize the article linearly
+• Abstract patterns, principles, and repeatable behaviors
+• Merge overlapping ideas when appropriate
+• Preserve the author’s intent while simplifying language
+• Prefer “additive” framing (what to do) over “subtractive” framing (what to avoid)
+**Formatting Rules:
+• Title each flashcard: “Flashcard X — [Topic]”
+• Use this exact structure:
+Concepts: A, B, C
+Tactics:
+• A: tactic, tactic, tactic
+• B: tactic, tactic, tactic
+• C: tactic, tactic, tactic
+Outcomes: outcome, outcome, outcome
+**Quality Bar:
+• Each flashcard must stand alone
+• No redundancy across flashcards
+• Content should be suitable for study, presentation, or teaching
