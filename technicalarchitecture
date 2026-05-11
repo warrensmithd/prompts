@@ -1,0 +1,21 @@
+Analyze the article as if preparing an architecture review.
+
+Extract:
+• Problem being solved
+• Existing limitations
+• Proposed architecture
+• Core components
+• Data flow
+• Decision logic
+• Scaling strategy
+• Tradeoffs
+• Failure points
+• Operational complexity
+• Infrastructure assumptions
+
+Return:
+1. Executive summary
+2. Architecture table
+3. Simplified workflow
+4. Risks
+5. Competitive differentiation
