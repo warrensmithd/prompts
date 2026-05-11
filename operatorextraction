@@ -1,0 +1,16 @@
+Extract only operationally actionable insights from the article.
+
+For each insight provide:
+• Situation
+• Signal
+• Decision
+• Tradeoff
+• Execution tactic
+• Failure risk
+• Organizational impact
+
+Rules:
+• No motivational language
+• No abstract theory
+• Focus on repeatable execution behaviors
+• Prefer specific operating patterns
